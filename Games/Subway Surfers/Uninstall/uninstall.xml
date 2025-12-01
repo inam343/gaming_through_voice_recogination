@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
+<DataFilePath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Subway Surfers1.0</CPRegKey>
+<EXELocation>C:\Program Files (x86)\Foxy Games\Subway Surfers\uninstall.exe</EXELocation>
+<AppShortcutFolderPath>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Subway Surfers</AppShortcutFolderPath>
+<UninstallReverseOrder>1</UninstallReverseOrder>
+<UninstallFiles>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\monster-turquoise.ico</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Play Over 14.000 Online Games on The Playing Bay.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\level0</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\level1</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\mainData</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\output_log.txt</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\PlayerConnectionConfigFile</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\resources.assets</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\ScreenSelector.bmp</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\sharedassets0.assets</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\sharedassets1.assets</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\sharedassets2.assets</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed\Assembly-CSharp-firstpass.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed\Assembly-CSharp.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed\Mono.Security.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed\mscorlib.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed\System.Core.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed\System.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed\UnityEngine.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\mono.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\browscap.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\1.0\DefaultWsdlHelpGenerator.aspx</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\1.0\machine.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\2.0\machine.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\2.0\settings.map</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\2.0\web.config</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\2.0\Browsers\Compat.browser</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\mconfig\config.xml</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Plugins\accelerometer.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Resources\unity default resources</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\More Free Foxy Games.PNG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Users\MN\Desktop\Play Over 14.000 Online Games on The Playing Bay.lnk</Filename>
+<Filename>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Subway Surfers\Play Over 14.000 Online Games on The Playing Bay.lnk</Filename>
+<Filename>C:\Users\MN\Desktop\Subway Surfers.lnk</Filename>
+<Filename>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Subway Surfers\Subway Surfers.lnk</Filename>
+<Filename>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Subway Surfers\More Free Foxy Games.lnk</Filename>
+<Filename>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Subway Surfers\Uninstall Subway Surfers.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Uninstall\IRIMG1.JPG</Filename>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Uninstall\IRIMG2.JPG</Filename>
+<Filename>C:\Program Files (x86)\Foxy Games\Subway Surfers\Uninstall\IRIMG3.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Uninstall</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Managed</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\1.0</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\2.0</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\2.0\Browsers</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Mono\etc\mono\mconfig</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Plugins</FolderPath>
+<FolderPath>C:\Program Files (x86)\Foxy Games\Subway Surfers\Subway_Surfers_Data\Resources</FolderPath>
+<FolderPath>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Subway Surfers</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>Subway Surfers</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>Foxy Games</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>1.0</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>Copyright © 2012 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value>http://www.theplayingbay.com</Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% Setup</Value>
+</Var>
+<Var>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>C:\Program Files (x86)\Foxy Games\Subway Surfers</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>%ProductName%</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolderCommon%</Name>
+<Value>C:\ProgramData</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Users\MN\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>C:\Users\MN\Documents</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp</Value>
+</Var>
+<Var>
+<Name>%CommonDocumentsFolder%</Name>
+<Value>C:\Users\Public\Documents</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolder%</Name>
+<Value>C:\Users\MN\Music</Value>
+</Var>
+<Var>
+<Name>%MyMusicFolderCommon%</Name>
+<Value>C:\Users\Public\Music</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolder%</Name>
+<Value>C:\Users\MN\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyPicturesFolderCommon%</Name>
+<Value>C:\Users\Public\Pictures</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolder%</Name>
+<Value>C:\Users\MN\Videos</Value>
+</Var>
+<Var>
+<Name>%MyVideosFolderCommon%</Name>
+<Value>C:\Users\Public\Videos</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder64%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder64%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files (x86)</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files (x86)\Common Files</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\Windows\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\Windows</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\MN\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\MN\AppData\Local\Temp\_ir_sf_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>MN</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files (x86)\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%LaunchUserName%</Name>
+<Value>MN</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDomain%</Name>
+<Value>DESKTOP-N7LDLBT</Value>
+</Var>
+<Var>
+<Name>%LaunchUserApplicationDataFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%LaunchUserDesktopFolder%</Name>
+<Value>C:\Users\MN\Desktop</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyDocumentsFolder%</Name>
+<Value>C:\Users\MN\Documents</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartProgramsFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%LaunchUserStartupFolder%</Name>
+<Value>C:\Users\MN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyMusicFolder%</Name>
+<Value>C:\Users\MN\Music</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyPicturesFolder%</Name>
+<Value>C:\Users\MN\Pictures</Value>
+</Var>
+<Var>
+<Name>%LaunchUserMyVideosFolder%</Name>
+<Value>C:\Users\MN\Videos</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>H:\Normal Games\Subway Surfers - FULL PC Version - Foxy Games\Subway Surfers - FULL PC Version - Foxy Games.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>H:\Normal Games\Subway Surfers - FULL PC Version - Foxy Games</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>H:</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>3.29 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>59.9 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>

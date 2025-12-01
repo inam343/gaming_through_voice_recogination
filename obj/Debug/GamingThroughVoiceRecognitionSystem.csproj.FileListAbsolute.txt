@@ -1,0 +1,265 @@
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.AssemblyReference.cache
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Resources\Styles.baml
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\HomeWindow.g.cs
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\LoginWIndow.g.cs
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\MainWindow.g.cs
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\SignUpWindow.g.cs
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\App.g.cs
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.cache
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.lref
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\GamingThroughVoiceRecognitionSystem.exe
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\GamingThroughVoiceRecognitionSystem.pdb
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Data.SqlClient.dll
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Data.SqlClient.xml
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\HomeWindow.baml
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\LoginWIndow.baml
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\MainWindow.baml
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\SignUpWindow.baml
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.g.resources
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.Properties.Resources.resources
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.GenerateResource.cache
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.CoreCompileInputs.cache
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingTh.D2544EB7.Up2Date
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.exe
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.pdb
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\App.baml
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Abdullah\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\GamingThroughVoiceRecognitionSystem.exe
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\GamingThroughVoiceRecognitionSystem.pdb
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\AForge.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\AForge.Video.DirectShow.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\AForge.Video.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\Microsoft.Win32.Registry.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\NAudio.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\NAudio.WinForms.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Data.SqlClient.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Security.AccessControl.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Security.Principal.Windows.dll
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\AForge.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\AForge.Video.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\AForge.Video.DirectShow.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\Microsoft.Win32.Registry.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\NAudio.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\NAudio.WinForms.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Data.SqlClient.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Security.AccessControl.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\bin\Debug\System.Security.Principal.Windows.xml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.AssemblyReference.cache
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Resources\Styles.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\DashboardControl.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\VoiceCommandsControl.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\SettingsControl.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\GlassMessageBox.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\HomeWindow.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\LoginWindow.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\SignUpWindow.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\UserProfile.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\FaceCaptureWindow.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\VoiceRecordingWindow.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\DashboardControl.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\VoiceCommandsControl.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\SettingsControl.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\GlassMessageBox.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\HomeWindow.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\LoginWindow.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\MainWindow.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\SignUpWindow.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\UserProfile.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\FaceCaptureWindow.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\VoiceRecordingWindow.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\App.g.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.cache
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.lref
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\App.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\Views\MainWindow.baml
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.g.resources
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.Properties.Resources.resources
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.GenerateResource.cache
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.CoreCompileInputs.cache
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingTh.D2544EB7.Up2Date
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.exe
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.pdb
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.exe
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.pdb
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.WinForms.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.WinForms.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Data.SqlClient.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Resources\Styles.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\DashboardControl.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceCommandsControl.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SettingsControl.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\GlassMessageBox.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\HomeWindow.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\LoginWindow.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SignUpWindow.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\UserProfile.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\FaceCaptureWindow.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceRecordingWindow.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\DashboardControl.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceCommandsControl.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SettingsControl.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\GlassMessageBox.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\HomeWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\MainWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SignUpWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\UserProfile.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\FaceCaptureWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceRecordingWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\App.g.cs
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.cache
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.lref
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\App.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\MainWindow.baml
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.g.resources
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingTh.D2544EB7.Up2Date
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.exe
+C:\Users\user\Desktop\New folder (3)\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.pdb
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.exe
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.pdb
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.WinForms.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.WinForms.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Data.SqlClient.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Resources\Styles.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\DashboardControl.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceCommandsControl.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SettingsControl.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\GlassMessageBox.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\HomeWindow.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\LoginWindow.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SignUpWindow.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\UserProfile.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\FaceCaptureWindow.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceRecordingWindow.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\DashboardControl.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceCommandsControl.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SettingsControl.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\GlassMessageBox.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\HomeWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\MainWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SignUpWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\UserProfile.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\FaceCaptureWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceRecordingWindow.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\App.g.cs
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.cache
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.lref
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\App.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\MainWindow.baml
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.g.resources
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.Properties.Resources.resources
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingTh.D2544EB7.Up2Date
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.exe
+C:\Users\user\Desktop\New folder (3)\New folder\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.pdb
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.exe
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\GamingThroughVoiceRecognitionSystem.pdb
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.DirectShow.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\Microsoft.Win32.Registry.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.WinForms.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Data.SqlClient.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.AccessControl.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.Principal.Windows.dll
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\AForge.Video.DirectShow.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\Microsoft.Win32.Registry.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\NAudio.WinForms.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Data.SqlClient.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.AccessControl.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\bin\Debug\System.Security.Principal.Windows.xml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.AssemblyReference.cache
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.exe.config
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Resources\Styles.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\DashboardControl.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceCommandsControl.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SettingsControl.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\GlassMessageBox.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\HomeWindow.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\LoginWindow.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SignUpWindow.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\UserProfile.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\FaceCaptureWindow.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceRecordingWindow.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\DashboardControl.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceCommandsControl.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SettingsControl.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\GlassMessageBox.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\HomeWindow.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\LoginWindow.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\MainWindow.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\SignUpWindow.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\UserProfile.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\FaceCaptureWindow.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\VoiceRecordingWindow.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\App.g.cs
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.cache
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem_MarkupCompile.lref
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\App.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\Views\MainWindow.baml
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.g.resources
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.Properties.Resources.resources
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.GenerateResource.cache
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.csproj.CoreCompileInputs.cache
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingTh.D2544EB7.Up2Date
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.exe
+D:\new changing model of project\GamingThroughVoiceRecognition-Updated-main\obj\Debug\GamingThroughVoiceRecognitionSystem.pdb

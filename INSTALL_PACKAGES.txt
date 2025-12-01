@@ -1,0 +1,33 @@
+========================================
+INSTALL REQUIRED NUGET PACKAGES
+========================================
+
+Please install these packages using Visual Studio:
+
+METHOD 1: Using Package Manager Console
+----------------------------------------
+1. Open Visual Studio
+2. Go to Tools > NuGet Package Manager > Package Manager Console
+3. Run these commands one by one:
+
+Install-Package AForge -Version 2.2.5
+Install-Package AForge.Video -Version 2.2.5
+Install-Package AForge.Video.DirectShow -Version 2.2.5
+Install-Package NAudio -Version 2.1.0
+
+
+METHOD 2: Using NuGet Package Manager UI
+-----------------------------------------
+1. Right-click on the project in Solution Explorer
+2. Select "Manage NuGet Packages..."
+3. Click "Browse" tab
+4. Search and install each package:
+   - AForge (version 2.2.5)
+   - AForge.Video (version 2.2.5)
+   - AForge.Video.DirectShow (version 2.2.5)
+   - NAudio (version 2.1.0)
+
+
+After installing packages, rebuild the solution.
+
+========================================

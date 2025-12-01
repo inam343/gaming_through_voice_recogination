@@ -1,0 +1,20 @@
+﻿GamingThroughVoiceRecognitionSystem
+
+
+winexe
+C#
+.cs
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\obj\Debug\
+GamingThroughVoiceRecognitionSystem
+none
+false
+DEBUG;TRACE
+E:\FYP\Final Defence\Testing Version\GamingThroughVoiceRecognitionSystem\App.xaml
+12-1219698134
+
+22304587420
+2594629700
+Resources\Styles.xaml;Views\DashboardControl.xaml;Views\VoiceCommandsControl.xaml;Views\SettingsControl.xaml;Views\GlassMessageBox.xaml;Views\HomeWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\SignUpWindow.xaml;Views\UserProfile.xaml;Views\FaceCaptureWindow.xaml;Views\VoiceRecordingWindow.xaml;
+
+True
+
